@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2017/08/20" author="e.World Technology Ltd.">
+  <project id="{CCC661CC-E251-4AC9-9C43-38E94C9A89E5}" file="D:\xampp\htdocs\gaji\prj_gaji.pmp" name="prj_gaji" product="PHPMaker" version="13.0" datetime="2017/08/20 07:32:50" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="t_gaji_detail" name="t_gaji_detail" caption="Perincian" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="t_gaji_master" name="t_gaji_master" caption="Input Gaji" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="t_pegawai" name="t_pegawai" caption="Daftar Pegawai" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="t_periode" name="t_periode" caption="Periode Gaji" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="t_project" name="t_project" caption="Project" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="c_home_php" name="c_home.php" caption="Home" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="t_audit_trail" name="t_audit_trail" caption="t audit trail" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
